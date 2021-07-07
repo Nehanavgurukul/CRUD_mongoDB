@@ -1,0 +1,26 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nehanavgurukul/CRUD_mongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nehanavgurukul/CRUD_mongoDB/issues"
+  },
+  "homepage": "https://github.com/Nehanavgurukul/CRUD_mongoDB#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "validator": "^13.6.0"
+  }
+}
